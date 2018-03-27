@@ -1,2 +1,2 @@
 # newenergy
-plist_release
+newenergy_plist
